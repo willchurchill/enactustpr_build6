@@ -1,0 +1,62 @@
+/* SUBMIT NEW TPR FORM */
+
+.tprform input, .tprform textarea, .tprform select{
+	width:99%;
+	border-radius:10px;
+	padding:0.5em;
+	border:1px solid #515356;
+}
+
+.tprform .tprhours{
+	width:50%;
+}
+
+.tprform td{
+	/*	border:1px black solid; */
+	line-height:1.5em;
+	padding-bottom:0.8em;
+}
+
+.tprform h4 {
+	font-weight:bold;
+}
+
+.hourslabel{
+	text-align:center;
+}
+
+.radiowrapperscore1 input, .radiowrapperscore2 input, .radiowrapperscore3 input, .radiowrapperscore4 input, .radiowrapperscore5 input, .radiowrapperscore0 input, .radiowrapperscore00 input {
+	visibility:hidden; width:0;
+}
+.radiowrapperscore1 label, .radiowrapperscore2 label, .radiowrapperscore3 label, .radiowrapperscore4 label, .radiowrapperscore5 label, .radiowrapperscore0 label, .radiowrapperscore00 label { 
+	border-radius:15px;
+	line-height:2em;
+	padding-left:5%; padding-right:5%;
+	margin-top:1%; margin-bottom:1%;
+	border:1px solid white;
+	background-color:white;
+}
+.radiowrapperscore1 label:hover, .radiowrapperscore1 input:checked + label { background-color:#C41230;}
+.radiowrapperscore2 label:hover, .radiowrapperscore2 input:checked + label { background-color:#EF4656;}
+.radiowrapperscore3 label:hover, .radiowrapperscore3 input:checked + label { background-color:#FFC222;}
+.radiowrapperscore4 label:hover, .radiowrapperscore4 input:checked + label { background-color:#BAD532;}
+.radiowrapperscore5 label:hover, .radiowrapperscore5 input:checked + label { background-color:#49A942;}
+.radiowrapperscore0 label:hover, .radiowrapperscore0 input:checked + label { background-color:#515356;}
+.radiowrapperscore00 label:hover, .radiowrapperscore00 input:checked + label { background-color:transparent; color:transparent; }
+
+.radiowrapperscore1 label:hover, .radiowrapperscore2 label:hover, .radiowrapperscore3 label:hover, .radiowrapperscore4 label:hover, .radiowrapperscore5 label:hover , .radiowrapperscore0 label:hover { 
+	color:white; border:1px solid black;
+}
+.radiowrapperscore1 input:checked + label, .radiowrapperscore2 input:checked + label, .radiowrapperscore3 input:checked + label, .radiowrapperscore4 input:checked + label, .radiowrapperscore5 input:checked + label, .radiowrapperscore0 input:checked + label { 
+	font-weight:bold; color:white; border:1px solid black;
+}
+
+.meetingsummary{
+	height:7em;
+}
+
+.btn-submit{
+	background-color:#0096D6;
+	width:50%;
+	margin:auto;
+}

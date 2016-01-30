@@ -1,0 +1,771 @@
+[25-Oct-2015 23:30:32 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:30:32 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:30:50 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:30:50 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:32:58 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:32:58 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:38:13 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:38:13 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 114
+[25-Oct-2015 23:42:14 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 93
+[25-Oct-2015 23:42:14 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 93
+[25-Oct-2015 23:44:13 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 74
+[25-Oct-2015 23:44:13 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 74
+[25-Oct-2015 23:44:37 UTC] PHP Warning:  include_once(php/o_reports_table.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 74
+[25-Oct-2015 23:44:37 UTC] PHP Warning:  include_once(): Failed opening 'php/o_reports_table.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 74
+[26-Oct-2015 08:46:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 480
+[26-Oct-2015 08:46:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 487
+[26-Oct-2015 08:46:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 494
+[26-Oct-2015 08:46:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 501
+[26-Oct-2015 08:49:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 480
+[26-Oct-2015 08:49:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 487
+[26-Oct-2015 08:49:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 494
+[26-Oct-2015 08:49:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 501
+[26-Oct-2015 08:50:21 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 480
+[26-Oct-2015 08:50:21 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 487
+[26-Oct-2015 08:50:21 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 494
+[26-Oct-2015 08:50:21 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 501
+[26-Oct-2015 08:50:21 UTC] PHP Notice:  Undefined variable: totaltprs_30day_user in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 46
+[26-Oct-2015 08:50:21 UTC] PHP Notice:  Undefined variable: totaltprs_30day in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 66
+[26-Oct-2015 08:52:00 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 480
+[26-Oct-2015 08:52:00 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 487
+[26-Oct-2015 08:52:00 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 494
+[26-Oct-2015 08:52:00 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 501
+[26-Oct-2015 08:52:00 UTC] PHP Notice:  Undefined variable: totaltprs_30day_user in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 46
+[26-Oct-2015 08:52:32 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 491
+[26-Oct-2015 08:52:32 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 498
+[26-Oct-2015 08:52:32 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 505
+[26-Oct-2015 08:52:32 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 512
+[26-Oct-2015 08:52:32 UTC] PHP Notice:  Undefined variable: totaltprs_30day_user in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 46
+[26-Oct-2015 08:52:45 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 491
+[26-Oct-2015 08:52:45 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 498
+[26-Oct-2015 08:52:45 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 505
+[26-Oct-2015 08:52:45 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 512
+[26-Oct-2015 08:56:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 443
+[26-Oct-2015 08:56:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 450
+[26-Oct-2015 08:56:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 457
+[26-Oct-2015 08:56:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 464
+[26-Oct-2015 08:57:27 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 444
+[26-Oct-2015 08:57:27 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 451
+[26-Oct-2015 08:57:27 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 458
+[26-Oct-2015 08:57:27 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 465
+[26-Oct-2015 08:59:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 453
+[26-Oct-2015 08:59:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 460
+[26-Oct-2015 08:59:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 467
+[26-Oct-2015 09:00:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 453
+[26-Oct-2015 09:00:42 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 462
+[26-Oct-2015 09:00:42 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 469
+[26-Oct-2015 09:01:13 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 471
+[26-Oct-2015 09:32:58 UTC] PHP Notice:  Undefined variable: teams in /home/enactusukalumni/tpr/bootstrap/dashboard/last3reports.php on line 22
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 11:01:40 UTC] PHP Notice:  Undefined index: meetingdescription in /home/enactusukalumni/tpr/bootstrap/dashboard/php/getallreports.php on line 36
+[26-Oct-2015 13:08:15 UTC] PHP Notice:  Undefined variable: showmentorteams in /home/enactusukalumni/tpr/bootstrap/dashboard/flagteam.php on line 48
+[26-Oct-2015 13:36:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:36:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:37:11 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:37:11 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:38:00 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:38:00 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:38:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:38:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:39:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:39:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:40:24 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:40:24 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:41:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:41:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:43:02 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:43:02 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:43:14 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:43:14 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:44:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:44:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:45:09 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:45:10 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:45:26 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:45:26 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:46:04 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:46:04 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 13:48:11 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 13:48:11 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 15:03:45 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 15:03:45 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 15:10:48 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 15:10:48 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 15:12:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 15:12:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/dashboard/php/last3reports.php on line 6
+[26-Oct-2015 15:18:00 UTC] PHP Notice:  Undefined variable: showmentorteams in /home/enactusukalumni/tpr/bootstrap/dashboard/submitnewtpr.php on line 40
+[26-Oct-2015 15:18:00 UTC] PHP Notice:  Undefined variable: showallteams in /home/enactusukalumni/tpr/bootstrap/dashboard/submitnewtpr.php on line 40
+[26-Oct-2015 16:48:08 UTC] PHP Warning:  include_once(php/last3reports.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/viewreport.php on line 44
+[26-Oct-2015 16:48:08 UTC] PHP Warning:  include_once(): Failed opening 'php/last3reports.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/viewreport.php on line 44
+[26-Oct-2015 17:45:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:45:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 42
+[26-Oct-2015 17:45:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:45:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 44
+[26-Oct-2015 17:45:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 45
+[26-Oct-2015 17:46:08 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:46:08 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 42
+[26-Oct-2015 17:46:08 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:46:08 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 44
+[26-Oct-2015 17:46:08 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 45
+[26-Oct-2015 17:46:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:46:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 42
+[26-Oct-2015 17:46:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:46:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 44
+[26-Oct-2015 17:46:24 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 45
+[26-Oct-2015 17:46:33 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:46:33 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 42
+[26-Oct-2015 17:46:33 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:46:33 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 44
+[26-Oct-2015 17:46:33 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 45
+[26-Oct-2015 17:47:55 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 37
+[26-Oct-2015 17:47:55 UTC] PHP Notice:  Undefined variable: network_targetscore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:47:55 UTC] PHP Notice:  Undefined variable: network_meetingscore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:47:55 UTC] PHP Notice:  Undefined variable: network_projectscore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:47:55 UTC] PHP Notice:  Undefined variable: network_engagementscore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 43
+[26-Oct-2015 17:48:30 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 37
+[26-Oct-2015 17:49:57 UTC] PHP Notice:  Undefined variable: network_averagescore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:50:46 UTC] PHP Notice:  Undefined variable: network_averagescore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:51:20 UTC] PHP Notice:  Undefined variable: network_averagescore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 17:53:20 UTC] PHP Notice:  Undefined variable: network_averagescore in /home/enactusukalumni/tpr/bootstrap/lib/php/viewreport.php on line 41
+[26-Oct-2015 23:38:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[26-Oct-2015 23:38:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[26-Oct-2015 23:53:27 UTC] PHP Notice:  Undefined index: tprid in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 27
+[27-Oct-2015 10:01:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[27-Oct-2015 10:01:40 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/nav.php on line 1
+[27-Oct-2015 10:01:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[27-Oct-2015 10:01:40 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[28-Oct-2015 10:58:48 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[28-Oct-2015 10:58:48 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/nav.php on line 1
+[28-Oct-2015 10:58:48 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[28-Oct-2015 10:58:48 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[28-Oct-2015 17:27:48 UTC] PHP Notice:  Undefined index: etprid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 26
+[28-Oct-2015 17:28:20 UTC] PHP Notice:  Undefined index: etprid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 26
+[28-Oct-2015 17:28:58 UTC] PHP Notice:  Undefined index: etprid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 26
+[28-Oct-2015 17:30:09 UTC] PHP Notice:  Undefined index: etprid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 26
+[28-Oct-2015 17:51:02 UTC] PHP Notice:  Undefined variable: eventid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 69
+[28-Oct-2015 17:51:02 UTC] PHP Notice:  Undefined variable: deliveryhours in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 70
+[28-Oct-2015 18:50:44 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 520
+[28-Oct-2015 18:50:44 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 527
+[28-Oct-2015 18:50:44 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 534
+[28-Oct-2015 18:50:44 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 541
+[28-Oct-2015 18:50:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 520
+[28-Oct-2015 18:50:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 527
+[28-Oct-2015 18:50:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 534
+[28-Oct-2015 18:50:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 541
+[28-Oct-2015 18:51:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 520
+[28-Oct-2015 18:51:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 527
+[28-Oct-2015 18:51:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 534
+[28-Oct-2015 18:51:10 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 541
+[28-Oct-2015 18:56:07 UTC] PHP Notice:  Undefined variable: totalscore in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 520
+[28-Oct-2015 18:56:07 UTC] PHP Notice:  Undefined variable: averagescore_30day in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 525
+[28-Oct-2015 18:56:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 531
+[28-Oct-2015 18:56:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 538
+[28-Oct-2015 18:56:07 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 545
+[28-Oct-2015 18:56:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 523
+[28-Oct-2015 18:56:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 531
+[28-Oct-2015 18:56:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 538
+[28-Oct-2015 18:56:59 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 545
+[28-Oct-2015 18:57:25 UTC] PHP Notice:  Undefined variable: averagescore_30day in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 525
+[28-Oct-2015 18:57:25 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 531
+[28-Oct-2015 18:57:25 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 538
+[28-Oct-2015 18:57:25 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 545
+[28-Oct-2015 18:58:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 531
+[28-Oct-2015 18:58:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 538
+[28-Oct-2015 18:58:01 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 545
+[28-Oct-2015 18:58:01 UTC] PHP Notice:  Undefined variable: averagescore_30day in /home/enactusukalumni/tpr/bootstrap/dashboard/index.php on line 70
+[28-Oct-2015 18:59:03 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 542
+[28-Oct-2015 18:59:03 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 549
+[28-Oct-2015 18:59:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/keyfacts.php on line 553
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[30-Oct-2015 12:18:18 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[31-Oct-2015 12:57:08 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[31-Oct-2015 12:57:08 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[31-Oct-2015 12:57:08 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[31-Oct-2015 12:57:08 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[31-Oct-2015 18:45:30 UTC] PHP Notice:  Undefined variable: beneificarygroups in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 239
+[31-Oct-2015 19:16:27 UTC] PHP Parse error:  syntax error, unexpected ''TL'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 19:16:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 19:16:45 UTC] PHP Parse error:  syntax error, unexpected '"TL"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 19:17:02 UTC] PHP Parse error:  syntax error, unexpected '"><label for='option_"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 28
+[31-Oct-2015 19:18:23 UTC] PHP Parse error:  syntax error, unexpected '"TL"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 19:24:08 UTC] PHP Parse error:  syntax error, unexpected '"TL"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 19:24:25 UTC] PHP Parse error:  syntax error, unexpected '"TL"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/dashboard/editprofile.php on line 106
+[31-Oct-2015 20:30:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 43
+[31-Oct-2015 20:31:07 UTC] PHP Notice:  Undefined variable: generalskills in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 34
+[31-Oct-2015 20:31:07 UTC] PHP Notice:  Undefined variable: projectskills in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 35
+[31-Oct-2015 20:31:07 UTC] PHP Notice:  Undefined variable: competitionskills in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 36
+[31-Oct-2015 20:31:07 UTC] PHP Notice:  Undefined variable: competitionskills in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 41
+[31-Oct-2015 21:06:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 40
+[31-Oct-2015 21:38:03 UTC] PHP Notice:  Undefined variable: sponsorcheckY in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 25
+[31-Oct-2015 21:38:03 UTC] PHP Notice:  Undefined variable: sponsorcheckN in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 26
+[31-Oct-2015 21:38:38 UTC] PHP Notice:  Undefined variable: sponsorcheckY in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 25
+[31-Oct-2015 21:38:38 UTC] PHP Notice:  Undefined variable: sponsorcheckN in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 26
+[31-Oct-2015 21:41:35 UTC] PHP Parse error:  syntax error, unexpected '$enactussponsor' (T_VARIABLE) in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 28
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:19 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:35 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 00:31:46 UTC] PHP Warning:  preg_replace(): Unknown modifier '/' in /home/enactusukalumni/tpr/bootstrap/lib/php/editprofile.php on line 51
+[01-Nov-2015 13:17:33 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Nov-2015 13:17:33 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[01-Nov-2015 13:17:33 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[01-Nov-2015 13:17:33 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[02-Nov-2015 13:55:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Nov-2015 13:55:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[02-Nov-2015 13:55:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[02-Nov-2015 13:55:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[03-Nov-2015 20:58:43 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[03-Nov-2015 20:58:43 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[03-Nov-2015 20:58:43 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[03-Nov-2015 20:58:43 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[04-Nov-2015 15:58:30 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Nov-2015 15:58:30 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 20
+[04-Nov-2015 15:58:30 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[04-Nov-2015 15:58:30 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[05-Nov-2015 15:36:44 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[05-Nov-2015 15:36:44 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[05-Nov-2015 15:36:44 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[05-Nov-2015 15:36:44 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 09:41:04 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 09:41:04 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 09:41:04 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 09:41:04 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 17:40:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 17:40:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 17:40:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 17:40:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 18:06:26 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 18:06:26 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 18:06:26 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 18:06:26 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 18:09:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 18:09:40 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 18:09:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 18:09:40 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 18:45:58 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 18:45:58 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 18:45:58 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 18:45:58 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 18:45:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 18:45:59 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 18:45:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 18:45:59 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[09-Nov-2015 18:46:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[09-Nov-2015 18:46:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[09-Nov-2015 18:46:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[09-Nov-2015 18:46:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:20:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:20:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:20:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:20:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:20:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:20:55 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:20:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:20:55 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:20:56 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:20:56 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:20:56 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:20:56 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:20:57 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:20:57 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:20:57 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:20:57 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:21:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:21:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:21:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:21:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:24:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:24:55 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:24:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 20:24:55 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 20:25:45 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:25:45 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 20:25:45 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 20:57:25 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 20:57:25 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 20:57:25 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 21:11:47 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 21:11:47 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 21:11:47 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 21:11:47 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 21:14:28 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 21:14:28 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 21:14:28 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Nov-2015 21:14:28 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[10-Nov-2015 21:31:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 21:31:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 21:31:37 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 21:32:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 21:32:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 21:32:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 21:34:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 21:34:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 21:34:35 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Nov-2015 23:18:53 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Nov-2015 23:18:53 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[10-Nov-2015 23:18:53 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[11-Nov-2015 08:51:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[11-Nov-2015 08:51:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[11-Nov-2015 08:51:35 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[11-Nov-2015 12:38:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[11-Nov-2015 12:38:40 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[11-Nov-2015 12:38:40 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[11-Nov-2015 14:30:29 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[11-Nov-2015 14:30:29 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[11-Nov-2015 14:30:29 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[11-Nov-2015 14:30:29 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[11-Nov-2015 16:19:57 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[11-Nov-2015 16:19:57 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[11-Nov-2015 16:19:57 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[12-Nov-2015 13:34:47 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[12-Nov-2015 13:34:47 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[12-Nov-2015 13:34:47 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[12-Nov-2015 13:34:47 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[12-Nov-2015 13:34:48 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[12-Nov-2015 13:34:48 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[12-Nov-2015 16:13:01 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[12-Nov-2015 16:13:01 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[12-Nov-2015 16:13:01 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[12-Nov-2015 16:13:01 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[12-Nov-2015 19:15:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[12-Nov-2015 19:15:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[12-Nov-2015 19:15:41 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[13-Nov-2015 18:12:49 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 463
+[13-Nov-2015 18:18:02 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 451
+[13-Nov-2015 18:18:05 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 451
+[13-Nov-2015 18:18:23 UTC] PHP Warning:  Division by zero in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 451
+[14-Nov-2015 16:19:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[14-Nov-2015 16:19:59 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[14-Nov-2015 16:19:59 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[15-Nov-2015 21:35:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[15-Nov-2015 21:35:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[15-Nov-2015 21:35:19 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[15-Nov-2015 21:38:08 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[15-Nov-2015 21:38:08 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[15-Nov-2015 21:38:08 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[15-Nov-2015 21:49:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[15-Nov-2015 21:49:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[15-Nov-2015 21:49:41 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 07:20:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[16-Nov-2015 07:20:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[16-Nov-2015 07:20:34 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 22:14:56 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[16-Nov-2015 22:14:56 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 22:14:56 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[16-Nov-2015 22:14:56 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[16-Nov-2015 22:20:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[16-Nov-2015 22:20:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[16-Nov-2015 22:20:05 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 22:20:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[16-Nov-2015 22:20:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[16-Nov-2015 22:20:37 UTC] PHP Notice:  Undefined index: etprid in /home/enactusukalumni/tpr/bootstrap/dashboard/updateeventtpr.php on line 29
+[16-Nov-2015 22:20:37 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 22:21:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[16-Nov-2015 22:21:15 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[16-Nov-2015 22:21:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[16-Nov-2015 22:21:15 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[27-Nov-2015 15:27:54 UTC] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home/enactusukalumni/tpr/bootstrap/lib/php/getallreports.php on line 6
+[27-Nov-2015 15:48:36 UTC] PHP Warning:  include_once(../lib/php/mentorlist.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/mentorlist.php on line 52
+[27-Nov-2015 15:48:36 UTC] PHP Warning:  include_once(): Failed opening '../lib/php/mentorlist.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/mentorlist.php on line 52
+[27-Nov-2015 16:36:51 UTC] PHP Warning:  include_once(../lib/php/teamlist.php): failed to open stream: No such file or directory in /home/enactusukalumni/tpr/bootstrap/dashboard/teamlist.php on line 47
+[27-Nov-2015 16:36:51 UTC] PHP Warning:  include_once(): Failed opening '../lib/php/teamlist.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/enactusukalumni/tpr/bootstrap/dashboard/teamlist.php on line 47
+[27-Nov-2015 16:36:51 UTC] PHP Notice:  Undefined variable: mentorsteams in /home/enactusukalumni/tpr/bootstrap/dashboard/teamlist.php on line 62
+[27-Nov-2015 16:36:51 UTC] PHP Notice:  Undefined variable: otherteams in /home/enactusukalumni/tpr/bootstrap/dashboard/teamlist.php on line 80
+[27-Nov-2015 16:43:31 UTC] PHP Notice:  Undefined variable: mentorsteams in /home/enactusukalumni/tpr/bootstrap/dashboard/teamlist.php on line 62
+[27-Nov-2015 20:02:27 UTC] PHP Notice:  Undefined index: teamid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 17
+[27-Nov-2015 20:02:27 UTC] PHP Notice:  Undefined index: teamid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 17
+[27-Nov-2015 20:02:27 UTC] PHP Notice:  Undefined index: teamid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 17
+[27-Nov-2015 20:02:27 UTC] PHP Notice:  Undefined index: teamid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 17
+[27-Nov-2015 20:02:27 UTC] PHP Notice:  Undefined index: teamid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 17
+[27-Nov-2015 20:45:15 UTC] PHP Notice:  Undefined variable: hoursthismonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 71
+[27-Nov-2015 20:45:15 UTC] PHP Notice:  Undefined variable: scoresthismonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 82
+[27-Nov-2015 20:45:15 UTC] PHP Fatal error:  Class 'PSO' not found in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 14
+[27-Nov-2015 20:46:36 UTC] PHP Fatal error:  Class 'PSO' not found in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 14
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: tmhtm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: tmhtm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: tmhtm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: tmhtm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 20:51:37 UTC] PHP Notice:  Undefined index: tmhtm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:01:14 UTC] PHP Notice:  Undefined index: ttm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 21
+[27-Nov-2015 21:01:14 UTC] PHP Notice:  Undefined index: ttm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 21
+[27-Nov-2015 21:01:14 UTC] PHP Notice:  Undefined index: ttm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 21
+[27-Nov-2015 21:01:14 UTC] PHP Notice:  Undefined index: ttm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 21
+[27-Nov-2015 21:01:14 UTC] PHP Notice:  Undefined index: ttm in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 21
+[27-Nov-2015 21:01:30 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:01:30 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:01:30 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:01:30 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:01:30 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 15
+[27-Nov-2015 21:05:57 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 83
+[27-Nov-2015 21:05:57 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 94
+[27-Nov-2015 21:05:57 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 111
+[27-Nov-2015 21:05:57 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 122
+[27-Nov-2015 21:06:10 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 82
+[27-Nov-2015 21:06:10 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 93
+[27-Nov-2015 21:06:10 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 110
+[27-Nov-2015 21:06:10 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 121
+[27-Nov-2015 21:10:43 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 99
+[27-Nov-2015 21:10:43 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 110
+[27-Nov-2015 21:10:43 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 127
+[27-Nov-2015 21:10:43 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 138
+[27-Nov-2015 21:12:00 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 109
+[27-Nov-2015 21:12:00 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 120
+[27-Nov-2015 21:12:00 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 137
+[27-Nov-2015 21:12:00 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 148
+[27-Nov-2015 21:12:22 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 109
+[27-Nov-2015 21:12:22 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 120
+[27-Nov-2015 21:12:22 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 137
+[27-Nov-2015 21:12:22 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 148
+[27-Nov-2015 21:13:21 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:13:21 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:13:21 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:13:21 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:16:04 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:16:04 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:16:04 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:16:04 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:16:34 UTC] PHP Notice:  Undefined variable: highestscoringteamsthismonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 113
+[27-Nov-2015 21:16:34 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:16:34 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:16:34 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:16:34 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:17:23 UTC] PHP Notice:  Undefined variable: highestscoringteamsthismonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 113
+[27-Nov-2015 21:17:23 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:17:23 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:17:23 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:17:23 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 39
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 39
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 39
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 39
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined index: mentorname in /home/enactusukalumni/tpr/bootstrap/lib/php/stats_top5s.php on line 39
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined variable: highestscoringteamsthismonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 113
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:18:18 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:18:37 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:18:37 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:18:37 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:18:37 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:18:54 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:18:54 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:18:54 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:18:54 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:19:15 UTC] PHP Notice:  Undefined variable: hourslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 132
+[27-Nov-2015 21:19:15 UTC] PHP Notice:  Undefined variable: scoreslastmonth in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 143
+[27-Nov-2015 21:19:15 UTC] PHP Notice:  Undefined variable: hoursthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 160
+[27-Nov-2015 21:19:15 UTC] PHP Notice:  Undefined variable: scoresthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 171
+[27-Nov-2015 21:23:16 UTC] PHP Notice:  Undefined variable: activementorsthisyear_events in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 192
+[27-Nov-2015 21:23:16 UTC] PHP Notice:  Undefined variable: activementorsthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 202
+[27-Nov-2015 21:23:16 UTC] PHP Notice:  Undefined variable: activeteamsthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 212
+[27-Nov-2015 21:23:16 UTC] PHP Notice:  Undefined variable: awardingmentorsthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 227
+[27-Nov-2015 21:23:16 UTC] PHP Notice:  Undefined variable: scoringteamsthisyear in /home/enactusukalumni/tpr/bootstrap/dashboard/statistics.php on line 237
+[27-Nov-2015 21:52:53 UTC] PHP Notice:  Undefined variable: showmentorteams in /home/enactusukalumni/tpr/bootstrap/dashboard/stats_hoursovertime.php on line 74
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[01-Dec-2015 20:47:34 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[01-Dec-2015 20:53:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 20:53:46 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 20:53:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[01-Dec-2015 20:53:46 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[01-Dec-2015 21:06:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:06:46 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:06:46 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 21:07:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:07:15 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:07:15 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 21:07:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:07:41 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:07:41 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 21:18:07 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:18:07 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:18:07 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 21:21:07 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:21:07 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:21:07 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[01-Dec-2015 21:24:50 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[01-Dec-2015 21:24:50 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[01-Dec-2015 21:24:50 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:01:20 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:01:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:02:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:02:35 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:02:35 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 09:10:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 09:10:05 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 09:10:05 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 17:06:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 17:06:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 17:06:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 17:07:10 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 17:07:10 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 17:07:10 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[02-Dec-2015 17:08:31 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[02-Dec-2015 17:08:31 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[02-Dec-2015 17:08:31 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 11:58:09 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 11:58:09 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[04-Dec-2015 11:58:09 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 11:58:10 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 11:58:10 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[04-Dec-2015 11:58:10 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 11:59:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 11:59:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 11:59:21 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[04-Dec-2015 11:59:21 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[04-Dec-2015 13:23:25 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:23:25 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[04-Dec-2015 13:23:25 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 13:23:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:23:38 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 13:23:38 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[04-Dec-2015 13:23:38 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[04-Dec-2015 13:27:49 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:27:49 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 13:28:08 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:28:08 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 13:28:09 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:28:09 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[04-Dec-2015 13:28:09 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamlist.php on line 6
+[04-Dec-2015 13:28:43 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[04-Dec-2015 13:28:43 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[06-Dec-2015 17:03:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[06-Dec-2015 17:03:55 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/teamnames.php on line 3
+[06-Dec-2015 17:03:55 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Dec-2015 12:32:17 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[10-Dec-2015 12:32:17 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[10-Dec-2015 12:32:17 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[10-Dec-2015 12:32:17 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[05-Jan-2016 11:25:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[05-Jan-2016 11:25:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[05-Jan-2016 11:25:54 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[05-Jan-2016 11:25:54 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[12-Jan-2016 18:13:31 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[12-Jan-2016 18:13:31 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[12-Jan-2016 18:13:31 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[12-Jan-2016 18:13:31 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[13-Jan-2016 13:29:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[13-Jan-2016 13:29:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[13-Jan-2016 13:29:03 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[13-Jan-2016 13:29:03 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[29-Jan-2016 23:32:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[29-Jan-2016 23:32:37 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[29-Jan-2016 23:32:37 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[29-Jan-2016 23:32:37 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[29-Jan-2016 23:36:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[29-Jan-2016 23:36:19 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[29-Jan-2016 23:36:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[29-Jan-2016 23:36:19 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4
+[30-Jan-2016 01:35:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/userfacts.php on line 3
+[30-Jan-2016 01:35:19 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/dashboard/topbar.php on line 18
+[30-Jan-2016 01:35:19 UTC] PHP Notice:  Undefined index: TPRuserid in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 3
+[30-Jan-2016 01:35:19 UTC] PHP Notice:  Undefined index: TPRuserlevel in /home/enactusukalumni/tpr/bootstrap/lib/php/last3reports.php on line 4

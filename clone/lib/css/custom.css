@@ -1,0 +1,124 @@
+/* 
+	xyz denotes an element; <h1> <p> etc
+	#xyz denotes an id
+	.xyz denotes a class
+
+		ENACTUS COLOURS
+			#515356		rgba(81, 83, 86, 1)			Grey
+			#FFC222		rgba(255, 194, 34, 1)		Gold
+			#C88A12		rgba(200, 138, 18, 1)		Gold (shadow)
+			#0096D6		rgba(0, 150, 214, 1)		Blue
+			#71D0F6 	rgba(113, 208, 246, 1)		Blue (secondary)
+			#92278F		rgba(146, 39, 143, 1)		Purple
+			#C37DB5 	rgba(195, 125, 181, 1)		Purple (secondary)
+			#49A942 	rgba(73, 169, 66, 1)		Green
+			#BAD532 	rgba(186, 213, 50, 1)		Green (secondary)
+			#C41230 	rgba(196, 18, 48, 1)		Red
+			#EF4656 	rgba(239, 70, 86, 1)		Red (secondary)
+			#F8971D 	rgba(248, 151, 29, 1)		Orange
+			#FFD200 	rgba(255, 210, 0, 1)		Orange (secondary)
+*/
+
+/* COVER PAGE */
+.cover-heading {
+	color:#FFC222;
+}
+
+.cover-lead {
+	color:black;
+	text-shadow:none;
+}
+
+.masthead-brand{
+	padding-top:50px;
+}
+
+.masthead-nav li a{
+	color:#515356;
+	text-shadow:none;
+}
+.masthead-nav li.active a{
+	color:#FFC222;
+}
+.masthead-nav li.active a:hover{
+	color:#C88A12;
+}
+.masthead-nav li a:hover{
+	color:#C88A12;
+}
+
+/* STATS AT TOP OF PAGE */
+.stattext{
+	font-size:1.5em;
+}
+
+
+/* FEATURETTE CONTENT */
+.featurette-lead{
+	text-shadow:none;
+	text-align:justify;
+	font-size:1em;
+}
+
+.pagestat{
+	font-weight:bold;
+}
+
+/* VERTICALLY ALIGN COLUMNS */
+.vertical-align {
+  display: flex;
+}
+.vertical-align > [class^="col-"],
+.vertical-align > [class*=" col-"] {
+  display: flex;
+  align-items: center;
+}
+.vertical-align > [class^="col-"] > div,
+.vertical-align > [class*=" col-"] > div {
+  /* flex: 1; */
+  flex-grow: 1;
+}
+
+/* Navigation bar */
+
+/* BUTTONS */
+.btn-primary{
+	background-color:#FFC222;
+	border-color:#C88A12;
+}
+.btn-primary:hover{
+	background-color:#C88A12;
+	border-color:#FFC222;
+}
+
+.btn-success{
+	background-color:#92278F;
+	border-color:#C37DB5;
+}
+.btn-success:hover{
+	background-color:#C37DB5;
+	border-color:#92278F;
+}
+
+/* GRAPHS */
+.linegraphcontainer {
+	vertical-align:center;
+}
+
+/* FOOTER */
+.footer-container{
+	/* background-color:black; */
+	color:black;
+	text-shadow:none;
+}
+.footer-container a{
+	color:#FFC222;
+}
+.footer-container a:hover{
+	color:#C88A12;
+}
+
+/* HIDE PAGE */
+.hiddenpage {
+	display:none;
+}
