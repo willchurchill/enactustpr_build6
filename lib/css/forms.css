@@ -1,0 +1,202 @@
+/* ALERTS BOX */
+.alertsbox{
+	background-color:#515356;
+	padding:0.5em 1em 2em 1em;
+	border-radius:15px;
+	color:white;
+}
+.alerttable{
+	width:100%;
+	text-align:center;
+}
+.alertnotification{
+	width:70%;
+	font-size:1.3em;
+}
+
+/* TABBED PAGE */
+.tabbedpage{
+	width:80%;
+	margin:auto;
+}
+.tabbedpage td{
+	width:30%;
+	padding-right:1em;
+	padding-bottom:1em;
+}
+
+.btn-on{
+	background-color:#0096D6;
+}
+.btn-off{
+	background-color:#71D0F6;
+}
+
+/* TABLES */
+#tprmouseover:hover {
+	background:#71D0F6;
+}
+
+.threecolcontainer {
+	-moz-column-count: 3;
+	-moz-column-gap: 1em;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 1em;
+	column-count: 3;
+	column-gap: 1em;
+	line-height: 1.5em;
+	text-align:left;
+	display:inline-block;
+	vertical-align:middle;
+	font-size:1em;
+}
+.fourcolcontainer {
+	-moz-column-count: 4;
+	-moz-column-gap: 1em;
+	-webkit-column-count: 4;
+	-webkit-column-gap: 1em;
+	column-count: 4;
+	column-gap: 1em;
+	line-height: 1.5em;
+	text-align:left;
+	display:inline-block;
+	vertical-align:middle;
+	font-size:1em;
+}
+
+/* SUBMIT NEW TPR FORM */
+
+.tprform {
+	width:90%;
+}
+
+.tprform input, .tprform textarea, .tprform select{
+	width:99%;
+	border-radius:10px;
+	padding:0.5em;
+	border:1px solid #515356;
+}
+
+.tprform .tprhours{
+	width:50%;
+}
+
+.tprform td{
+	/*	border:1px black solid; */
+	line-height:2em;
+	padding-bottom:1em;
+}
+
+.tprform h4 {
+	font-weight:bold;
+}
+
+.centeredinput{
+	text-align:center;
+}
+
+.tprwarning{
+	background-color:rgb(196, 18, 48);
+	background-color:rgba(196, 18, 48, 0.3);
+}
+.tprhighlight{
+	background-color:rgb(73, 169, 66);
+	background-color:rgba(73, 169, 66, 0.3);
+}
+.tprdescription{
+	height:12em;
+}
+
+.hourslabel{
+	text-align:center;
+}
+
+.tprsubtotal{
+	text-align:right;
+	font-weight:bold;
+}
+
+.radiowrapper input { visibility:hidden; width:0; }
+.radiowrapper label { border-radius:15px; line-height:2em; padding:0.3em;}
+.radiowrapper label:hover { font-weight:bold; background-color:black; color:white; }
+.radiowrapper input:checked + label { font-weight:bold; color:white; background-color:#515356; }
+
+.radiowrapperscore1 input, .radiowrapperscore2 input, .radiowrapperscore3 input, .radiowrapperscore4 input, .radiowrapperscore5 input, .radiowrapperscore0 input, .radiowrapperscore00 input {
+	visibility:hidden; width:0;
+}
+.radiowrapperscore1 label, .radiowrapperscore2 label, .radiowrapperscore3 label, .radiowrapperscore4 label, .radiowrapperscore5 label, .radiowrapperscore0 label, .radiowrapperscore00 label { 
+	border-radius:15px;
+	line-height:2em;
+	padding-left:5%; padding-right:5%;
+	margin-top:1%; margin-bottom:1%;
+	border:1px solid white;
+	background-color:white;
+}
+.radiowrapperscore1 label:hover, .radiowrapperscore1 input:checked + label { background-color:#C41230;}
+.radiowrapperscore2 label:hover, .radiowrapperscore2 input:checked + label { background-color:#EF4656;}
+.radiowrapperscore3 label:hover, .radiowrapperscore3 input:checked + label { background-color:#FFC222;}
+.radiowrapperscore4 label:hover, .radiowrapperscore4 input:checked + label { background-color:#BAD532;}
+.radiowrapperscore5 label:hover, .radiowrapperscore5 input:checked + label { background-color:#49A942;}
+.radiowrapperscore0 label:hover, .radiowrapperscore0 input:checked + label { background-color:#515356;}
+.radiowrapperscore00 label:hover, .radiowrapperscore00 input:checked + label { background-color:transparent; color:transparent; }
+
+.radiowrapperscore1 label:hover, .radiowrapperscore2 label:hover, .radiowrapperscore3 label:hover, .radiowrapperscore4 label:hover, .radiowrapperscore5 label:hover , .radiowrapperscore0 label:hover { 
+	color:white; border:1px solid black;
+}
+.radiowrapperscore1 input:checked + label, .radiowrapperscore2 input:checked + label, .radiowrapperscore3 input:checked + label, .radiowrapperscore4 input:checked + label, .radiowrapperscore5 input:checked + label, .radiowrapperscore0 input:checked + label { 
+	font-weight:bold; color:white; border:1px solid black;
+}
+
+.btn-submit{
+	background-color:#0096D6;
+}
+.btn-flag{
+	background-color:#C41230;
+}
+
+/* other CSS */
+.search{
+	text-align:center;
+	width:100%;
+	line-height:2em;
+	border-radius:15px;
+	padding:0.5em;
+}
+
+.meetingdate{
+	white-space:nowrap;
+}
+
+.scorenumber{
+	text-align:center;
+}
+
+.mentortable{
+	text-align:center;
+}
+.mentortable th{
+	text-align:center;
+	padding-left:0.2em; padding-right:0.2em;
+}
+.mentortable td{
+	padding:0.3em;
+}
+.mentortable tr{
+	padding-top:0.5em;
+}
+
+.othermentordetails{
+	display:none;
+}
+
+/* topfives */
+.topfives{
+	width:100%;
+	text-align:center;
+}
+.topfives th{
+	text-align:center;
+}
+
+/* ZH Mentors */
+.zhmentornumber{display:none;}

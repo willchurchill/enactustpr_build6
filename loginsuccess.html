@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../favicon.ico">
+
+    <title>TPR Login</title>
+		<!-- include core JS functions -->
+		<script src="/lib/js/functions.js"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/lib/css/bootstrap.css" rel="stylesheet">
+    <link href="/lib/css/signin.css" rel="stylesheet">
+		<link href="/lib/css/forms.css" rel="stylesheet">
+		
+		<script type="text/javascript" src="//platform.linkedin.com/in.js">
+			api_key:   00000000000000
+			onLoad:    onLinkedInLoad
+			authorize: true
+		</script>
+  </head>
+
+  <body>
+
+    <div class="container">
+      First name: <input id="firstname" value="">
+    </div> <!-- /container -->
+		
+		<script type="text/javascript">
+			// Setup an event listener to make an API call once auth is complete
+			function onLinkedInLoad() {
+				IN.Event.on(IN, "auth", getProfileData);
+			}
+			// Handle the successful return from the API call
+			function onSuccess(data) {
+        document.getElementById("firstname").value=data.firstName;
+			}
+			// Handle an error response from the API call
+			function onError(error) {
+				console.log(error);
+			}
+			// Use the API call wrapper to request the member's basic profile data
+			function getProfileData() {
+				IN.API.Raw("/people/").result(onSuccess).error(onError);
+			}
+
+</script>
+
+  </body>
+</html>
