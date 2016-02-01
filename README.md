@@ -1,6 +1,4 @@
-This is the GitHub repository for the Enactus UK Alumni Team Progress Report site.
+This is the GitHub repository for the new build of the Enactus UK Alumni TPR site.
 
-This repo contains the following:
-- The source code for version 5 (beta) of the platform software
-- The source code for the 'Quick TPR' webapp platform
-- The source code for the clone site, used to test the transition from the legacy TPR platform to the new Enactus UK Advisor platform.
+This repo contains the following (as of 1st Feb 2016):
+- login page for use with Linkedin API

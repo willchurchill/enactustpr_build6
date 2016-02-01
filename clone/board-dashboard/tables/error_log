@@ -1,6 +1,0 @@
-[30-Jan-2016 00:07:52 UTC] PHP Notice:  Undefined index: hoursselect in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 3
-[30-Jan-2016 00:07:52 UTC] PHP Notice:  Undefined variable: thisyear in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 4
-[30-Jan-2016 00:07:52 UTC] PHP Notice:  Undefined variable: lastyear in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 5
-[30-Jan-2016 00:07:52 UTC] PHP Notice:  Undefined variable: lastyear in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 6
-[30-Jan-2016 00:07:52 UTC] PHP Notice:  Undefined variable: pdo in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 17
-[30-Jan-2016 00:07:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/enactusukalumni/tpr/clone/board-dashboard/tables/g_hoursyearonyear.php on line 17
